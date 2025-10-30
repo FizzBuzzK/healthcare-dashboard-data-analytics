@@ -2,7 +2,17 @@
 
 **A data analytics project combining Python (pandas, matplotlib) and Power BI to explore hospital readmission trends among 130-US Hospitals with 100k+ encounters.**
 
+
 ---
+
+## Dashboard Preview
+
+| Page | Screenshot |
+|------|-------------|
+| Overview | ![Overview Page](images/overview_page.png) |
+| Admissions Insights | ![Admissions Insights](images/admissions_page.png) |
+| Demographics Insights | ![Demographics Insights](images/demographics_page.png) |
+| Medications Insights | ![Medications Insights](images/medications_page.png) |
 
 ## Project Overview
 
@@ -89,17 +99,6 @@ The dashboard was designed in four pages to simulate a **real-world healthcare a
 - Column Charts: Readmission Rate by Insulin, Diabetic Med Change  
 - Scatter Plot: Average Medications vs. Readmission Rate by Age Group  
 
-
----
-
-## Dashboard Preview
-
-| Page | Screenshot |
-|------|-------------|
-| Overview | ![Overview Page](images/overview_page.png) |
-| Admissions Insights | ![Admissions Insights](images/admissions_page.png) |
-| Demographics Insights | ![Demographics Insights](images/demographics_page.png) |
-| Medications Insights | ![Medications Insights](images/medications_page.png) |
 
 ---
 
