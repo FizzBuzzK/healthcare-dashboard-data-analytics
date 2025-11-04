@@ -1,6 +1,6 @@
 # Healthcare Diabetes Readmission Dashboard
 
-**A data analytics project combining Python (pandas, matplotlib) and Power BI to explore hospital readmission trends among 130-US Hospitals with 100k+ encounters.**
+**Data analytics project combining Python (pandas, matplotlib, seaborn) and Power BI to explore hospital readmission trends among 130-US Hospitals with 100k+ encounters.**
 
 
 ---
